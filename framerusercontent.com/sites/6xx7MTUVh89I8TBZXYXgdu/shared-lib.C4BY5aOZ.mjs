@@ -1,0 +1,2 @@
+import{t as e}from"rolldown-runtime.Bi-D_2cA.mjs";function t(e,t){return{description:`Turnkey Interiors & Renovations  🏢 Office & Home Makeovers | Custom Furniture | 📍 Serving Thane & Mumbai | 25+ Years Experiences`,favicon:`https://framerusercontent.com/assets/xu3aeVclGyTMyB3Nrj0TEF00O5E.png`,robots:`max-image-preview:large`,socialImage:`https://framerusercontent.com/assets/rgG1MNbnTddHXiEz6OeSTB9pyx8.png`,title:`Aditya Enterprises`}}function n(){return(n=e((()=>{})))()}export{t as n,n as t};
+//# sourceMappingURL=shared-lib.C4BY5aOZ.mjs.map
